@@ -1,6 +1,7 @@
-import pytest 
+import pytest
 
 from sub import subtraction
+
 
 @pytest.mark.parametrize("a, b, expected", [
     (2, 1, 1),
