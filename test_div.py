@@ -1,6 +1,7 @@
-import pytest 
+import pytest
 
 from div import division
+
 
 @pytest.mark.parametrize("a, b, expected", [
     (4, 2, 2.0),
