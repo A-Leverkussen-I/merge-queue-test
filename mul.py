@@ -1,2 +1,2 @@
-def multiplication(a: int, c: int) -> int:
-    return a * c
+def multiplication(a: int, d: int) -> int:
+    return a * d
