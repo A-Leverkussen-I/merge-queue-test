@@ -1,4 +1,4 @@
-import pytest 
+import pytest
 
 from abs import abs
 
